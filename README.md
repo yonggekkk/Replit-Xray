@@ -7,3 +7,4 @@
 
 
 ### 详见[博客视频教程](https://ygkkk.blogspot.com/2022/12/replit-xray-vmess-vless-trojan-shadowsocks.html)
+### 参考项目：[wy580477](https://github.com/wy580477/replit-trojan)
