@@ -1,5 +1,5 @@
 ### Replit容器部署xray核心代理
-### 提示：本地上传项目时，名称不要出现关于协议的字样，replit限制严格，不建议大流量长期使用
+### 提示：本地上传项目时，名称勿出现xray协议字样，大流量长期使用必被限制！
 ### 当前项目仅备份，也可到[replit官网直接fork最新版下载备份](https://replit.com/@ygkkkk?tab=repls)
 ### 详见[博客视频教程](https://ygkkk.blogspot.com/2022/12/replit-xray-vmess-vless-trojan-shadowsocks.html)
 
