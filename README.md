@@ -11,4 +11,4 @@
 ![f92e884deb193356ce6541b189c0697](https://user-images.githubusercontent.com/121604513/216213650-708d5f67-3b42-44c8-ae94-b83988bd534d.png)
 
 ![c27e56d91a8b28d21d8a6c9dbdd02e8](https://user-images.githubusercontent.com/121604513/213597462-964894e2-50b1-419a-bae1-8d8ada8b1e65.png)
-### 参考项目：[wy580477](https://github.com/wy580477/replit-trojan)
+### 参考项目：[hiifeng](https://github.com/hiifeng/V2ray-for-Replit)
