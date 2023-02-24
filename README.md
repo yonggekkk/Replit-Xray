@@ -1,12 +1,12 @@
 
 ## Replit容器部署xray核心代理
 ### 提示：
-1、本地上传项目时，名称勿出现xray/v2ray等任何的协议字样，大流量长期使用必被限制！
+1、本地上传项目时，项目名称勿出现xray/v2ray等任何的协议字样，大流量长期使用必被限制！
 
 2、出现实例运行提示“You cant run this Repl right now”，请先尝试切换印度地区
 
 -----------------------------------------------------------------------------------
-### 2023.2.23更新：目前美区审查严格，当前所有项目只能部署在印度区了！明天项目会有重大更新！！！！！！！
+### 2023.2.24更新：移除单协议脚本，只保留一个五合一！所有链接显示转移到网页：replit域名地址/share.html
 
 ### 2023.2.21更新：重新上传五合一协议文件（文件名称：vmvltrssso-nginx-pro），上传后等到覆盖提示后再点击RUN
 ### 更新内容：加入Nginx伪装变量（默认9,任天堂红白机游戏，建议用手机玩哦！），现在uptimerobot监测正常显示绿色。
@@ -25,8 +25,11 @@
 ----------------------------------------------------------------------------------------------------
 ### 当前项目仅备份，[目前replit官方对xray/v2ray封杀非常严厉](https://replit.com/@ygkkkk?tab=repls)
 ### 详见[博客视频教程](https://ygkkk.blogspot.com/2022/12/replit-xray-vmess-vless-trojan-shadowsocks.html)
+![41f3568811ec3ff1026a138203a5ad4](https://user-images.githubusercontent.com/121604513/221089191-c068dd7f-e4d4-407a-91db-24f63268c9bd.png)
 
-![f92e884deb193356ce6541b189c0697](https://user-images.githubusercontent.com/121604513/216213650-708d5f67-3b42-44c8-ae94-b83988bd534d.png)
+![b035687283af5d635157ad4ea336969](https://user-images.githubusercontent.com/121604513/221089206-d004b3ed-4109-4f7d-b9fb-f5832a3ec521.png)
 
-![c27e56d91a8b28d21d8a6c9dbdd02e8](https://user-images.githubusercontent.com/121604513/213597462-964894e2-50b1-419a-bae1-8d8ada8b1e65.png)
+![9450e4e9e0c5b9d79948adcf59325da](https://user-images.githubusercontent.com/121604513/221089210-3620ae10-bc2e-4694-8134-adeed5309b81.png)
+
+
 ### 参考项目：[hiifeng](https://github.com/hiifeng/V2ray-for-Replit)
