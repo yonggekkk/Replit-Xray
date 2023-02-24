@@ -25,7 +25,6 @@
 ----------------------------------------------------------------------------------------------------
 ### 当前项目仅备份，[目前replit官方对xray/v2ray封杀非常严厉](https://replit.com/@ygkkkk?tab=repls)
 ### 详见[博客视频教程](https://ygkkk.blogspot.com/2022/12/replit-xray-vmess-vless-trojan-shadowsocks.html)
-![41f3568811ec3ff1026a138203a5ad4](https://user-images.githubusercontent.com/121604513/221089191-c068dd7f-e4d4-407a-91db-24f63268c9bd.png)
 
 ![b035687283af5d635157ad4ea336969](https://user-images.githubusercontent.com/121604513/221089206-d004b3ed-4109-4f7d-b9fb-f5832a3ec521.png)
 
