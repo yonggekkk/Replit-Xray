@@ -18,6 +18,8 @@
 
 点击首页右上角蓝色加号New Repl，搜索模版：Blank Repl，随意输入项目名称Title（不要出现代理协议的任何字眼），点击创建Create Repl，然后下载Github备份地址中的压缩文件（vmvltrssso-nginx-pro），并解压。再把解压后的4个文件全部拖到左侧文件栏内进行覆盖，等待几十秒后提示覆盖点确定，最后点击RUN
 
+分享链接显示在网页： https://你的replit域名/你的项目名称.html 详见replit右下角最终显示说明
+
 ### 详见[博客视频教程](https://ygkkk.blogspot.com/2022/12/replit-xray-vmess-vless-trojan-shadowsocks.html)
 
 --------------------------------------------------------------------------------------------
