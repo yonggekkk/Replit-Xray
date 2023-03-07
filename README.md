@@ -13,6 +13,13 @@
 
 3、支持一键复制分享链接
 
+--------------------------------------------------------------------------------
+### 操作流程：
+
+点击首页右上角蓝色加号New Repl，搜索模版：Blank Repl，随意输入项目名称Title（不要出现代理协议的任何字眼），点击创建Create Repl，然后下载Github备份地址中的压缩文件（vmvltrssso-nginx-pro），并解压。再把解压后的4个文件全部拖到左侧文件栏内进行覆盖，等待几十秒后提示覆盖点确定，最后点击RUN
+
+### 详见[博客视频教程](https://ygkkk.blogspot.com/2022/12/replit-xray-vmess-vless-trojan-shadowsocks.html)
+
 --------------------------------------------------------------------------------------------
 #### 以下变量都为非必选变量，按需求添加（点击replit左侧Tools ，选择Secrets，详见教程）
 
@@ -26,7 +33,7 @@
 
 ----------------------------------------------------------------------------------------------------
 ### 当前项目仅备份，[目前replit官方对xray/v2ray封杀非常严厉](https://replit.com/@ygkkkk?tab=repls)
-### 详见[博客视频教程](https://ygkkk.blogspot.com/2022/12/replit-xray-vmess-vless-trojan-shadowsocks.html)
+
 
 ![b035687283af5d635157ad4ea336969](https://user-images.githubusercontent.com/121604513/221089206-d004b3ed-4109-4f7d-b9fb-f5832a3ec521.png)
 
