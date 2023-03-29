@@ -1,6 +1,0 @@
-run = ["./main.sh"]
-
-entrypoint = "main.sh"
-
-[nix]
-channel = "stable-21_11"
