@@ -33,10 +33,10 @@
 
 
 ----------------------------------------------------------------------------------------------------
+![682aec9151f00ed0cba7e8c8026ff06](https://user-images.githubusercontent.com/121604513/229277596-6d6bfcd4-2f91-42d3-8ebd-e27cbe9619a1.png)
+![7682b5d1e8862ca8d1e119122e02c73](https://user-images.githubusercontent.com/121604513/229277602-f6311191-1044-4612-bdad-d45230462a31.png)
+![799d196f38533f309f049e8bb480533](https://user-images.githubusercontent.com/121604513/229277603-c17c8bef-d85c-4bc3-91d9-e73949913ede.png)
 
-![b035687283af5d635157ad4ea336969](https://user-images.githubusercontent.com/121604513/221089206-d004b3ed-4109-4f7d-b9fb-f5832a3ec521.png)
-
-![9450e4e9e0c5b9d79948adcf59325da](https://user-images.githubusercontent.com/121604513/221089210-3620ae10-bc2e-4694-8134-adeed5309b81.png)
 
 
 ### 参考项目：[hiifeng](https://github.com/hiifeng/V2ray-for-Replit)
