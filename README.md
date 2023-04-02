@@ -1,7 +1,8 @@
 
 ## Replit容器部署xray核心代理
-### 提示：新建项目名称勿出现xray/v2ray等任何的协议字样，大流量使用必被限制！
+### 详见[视频教程](https://www.youtube.com/playlist?list=PLMgly2AulGG-WqPXPkHlqWVSfQ3XjHNw8)
 -----------------------------------------------------------------------------------
+### 提示：新建项目名称勿出现xray/v2ray等任何的协议字样，大流量使用必被限制！
 ### 2023.3.31更新：
 #### 0、恢复replit官方平台在线fork功能，[项目地址](https://replit.com/@ygkkkk?tab=repls)，怎么操作？不用说了吧？
 
@@ -18,9 +19,6 @@
 ### 本地上传操作流程：
 
 点击首页右上角蓝色加号New Repl，搜索模版：Blank Repl，随意输入项目名称Title（不要出现代理协议的任何字眼），点击创建Create Repl，然后下载Github备份地址中的压缩文件（vmvltrssso-nginx-pro），并解压。再把解压后的4个文件全部拖到左侧文件栏内进行覆盖，等待几十秒后提示覆盖点确定，最后点击RUN
-
-
-### 详见[博客视频教程](https://ygkkk.blogspot.com/2022/12/replit-xray-vmess-vless-trojan-shadowsocks.html)
 
 --------------------------------------------------------------------------------------------
 #### 以下变量都为非必选变量，按需求添加（点击replit左侧Tools ，选择Secrets，详见教程）
