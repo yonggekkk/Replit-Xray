@@ -1,6 +1,6 @@
 
 ## Replit容器部署xray核心代理
-### 详见[视频教程](https://www.youtube.com/playlist?list=PLMgly2AulGG-WqPXPkHlqWVSfQ3XjHNw8)
+### 详见[视频教程](https://www.youtube.com/playlist?list=PLMgly2AulGG-peT3CZoJFY68KbVg_D_lB)
 -----------------------------------------------------------------------------------
 ### 提示：新建项目名称勿出现xray/v2ray等任何的协议字样，大流量使用必被限制！
 ### 2023.3.31更新：
