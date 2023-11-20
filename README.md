@@ -33,3 +33,7 @@
 
 
 ### 参考项目：[hiifeng](https://github.com/hiifeng/V2ray-for-Replit)
+
+-----------------------------------------------------
+### 感谢你右上角的star🌟
+[![Stargazers over time](https://starchart.cc/yonggekkk/Replit-Xray.svg)](https://starchart.cc/yonggekkk/Replit-Xray)
