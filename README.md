@@ -32,8 +32,7 @@
 
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yonggekkk/Replit-Xray&type=Date)](https://star-history.com/#yonggekkk/Replit-Xray)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=yonggekkk/Replit-Xray&type=Timeline)](https://star-history.com/#yonggekkk/Replit-Xray&Timeline)
 
 
 ### 参考项目：[hiifeng](https://github.com/hiifeng/V2ray-for-Replit)
