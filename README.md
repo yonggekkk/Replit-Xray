@@ -34,5 +34,9 @@
 ### 感谢你右上角的star🌟
 [![Stargazers over time](https://starchart.cc/yonggekkk/Replit-Xray.svg)](https://starchart.cc/yonggekkk/Replit-Xray)
 
+---------------------------------------
+#### 声明：
 
-### 参考项目：[hiifeng](https://github.com/hiifeng/V2ray-for-Replit)
+#### 该项目使用base64加密，可自行解密，介意者请勿使用，[加密原因在此](https://ygkkk.blogspot.com/2022/06/github.html)
+
+#### 所有代码来源于Github社区与ChatGPT的整合；如您需要开源代码，请提Issues留下您的联系邮箱
