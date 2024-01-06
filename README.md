@@ -27,16 +27,3 @@
 ![682aec9151f00ed0cba7e8c8026ff06](https://user-images.githubusercontent.com/121604513/229277596-6d6bfcd4-2f91-42d3-8ebd-e27cbe9619a1.png)
 ![7682b5d1e8862ca8d1e119122e02c73](https://user-images.githubusercontent.com/121604513/229277602-f6311191-1044-4612-bdad-d45230462a31.png)
 ![799d196f38533f309f049e8bb480533](https://user-images.githubusercontent.com/121604513/229277603-c17c8bef-d85c-4bc3-91d9-e73949913ede.png)
-
-
-
------------------------------------------------------
-### 感谢你右上角的star🌟
-[![Stargazers over time](https://starchart.cc/yonggekkk/Replit-Xray.svg)](https://starchart.cc/yonggekkk/Replit-Xray)
-
----------------------------------------
-#### 声明：
-
-#### 该项目使用base64加密，可自行解密，介意者请勿使用，[加密原因在此](https://ygkkk.blogspot.com/2022/06/github.html)
-
-#### 所有代码来源于Github社区与ChatGPT的整合；如您需要开源代码，请提Issues留下您的联系邮箱
