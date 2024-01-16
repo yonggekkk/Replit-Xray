@@ -9,8 +9,8 @@
 | 变量含义 | 变量名称| 变量值| 不添加该变量说明|
 | :--- | :--- | :--- | :--- |
 | replit默认域名 | ym |replit自动生成的域名|必填|
-| argo固定隧道token | argotoken |CF生成的一串token|可选，但必须与argoym同时存在|
-| argo固定隧道域名 | argoym |CF设置的隧道域名|可选，但必须与argotoken同时存在|
+| argo固定隧道token | argotoken |CF生成的一串token|可选，但必须与argoym变量同时存在|
+| argo固定隧道域名 | argoym |CF设置的隧道域名|可选，但必须与argotoken变量同时存在|
 | 各协议uuid(密码) | uuid |自定义uuid规定格式|随机生成的uuid|
 | 伪装网页 | www |数字1-9任选一个数字，共9个伪装网页可选择|随机伪装网页|
 |Xray1.4.3版支持苹果oneclick免费客户端|ver|任意字符|自动安装最新版Xray|
