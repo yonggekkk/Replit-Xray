@@ -8,7 +8,7 @@
 
 | 变量含义 | 变量名称| 变量值| 不添加该变量说明|
 | :--- | :--- | :--- | :--- |
-| replit默认域名 | ym |replit自动生成的域名|必填|
+| replit默认域名 | ym |replit自动生成的域名|首次运行后必填|
 | argo固定隧道token | argotoken |CF生成的一串token|可选，但必须与argoym变量同时存在|
 | argo固定隧道域名 | argoym |CF设置的隧道域名|可选，但必须与argotoken变量同时存在|
 | 各协议uuid(密码) | uuid |自定义uuid规定格式|随机生成的uuid|
