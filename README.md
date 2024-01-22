@@ -1,7 +1,7 @@
 ## 2024.1.4说明：相关更新及视频教程将在月底发布！
 ### Replit容器部署xray核心五合一代理
 
-支持replit官方平台在线fork([vmvltrssso-replit-argo](https://replit.com/@ygkkkk?tab=repls))与本地上传两种方式
+支持replit官方平台在线fork([vmvltrssso-argo](https://replit.com/@ygkkkk?tab=repls))与本地上传两种方式
 
 --------------------------------------------------------------------------------------------
 #### 除了ym变量，其余变量都为非必选变量，按需求添加（点击replit左侧Tools ，选择Secrets，详见视频教程）
