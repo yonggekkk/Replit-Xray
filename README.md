@@ -1,7 +1,9 @@
 
-### Replit容器部署xray核心五合一代理
+## 2024更新：Replit容器部署xray核心五合一代理
 
-支持replit官方平台在线fork([vmvltrssso-argo](https://replit.com/@ygkkkk?tab=repls))与本地上传两种方式
+### [查看相关教程及视频说明](https://ygkkk.blogspot.com/2022/12/replit-xray-vmess-vless-trojan-shadowsocks.html)
+
+### 支持replit官方平台在线fork([vmvltrssso-argo](https://replit.com/@ygkkkk?tab=repls))与本地上传两种方式
 
 --------------------------------------------------------------------------------------------
 #### 除了ym变量，其余变量都为非必选变量，按需求添加（点击replit左侧Tools ，选择Secrets，详见视频教程）
