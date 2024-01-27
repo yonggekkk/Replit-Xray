@@ -3,9 +3,9 @@
 
 ### [查看相关教程及视频说明](https://ygkkk.blogspot.com/2022/12/replit-xray-vmess-vless-trojan-shadowsocks.html)
 
-### 一、支持replit官方平台在线fork([vmvltrssso-argo](https://replit.com/@ygkkkk?tab=repls))
+### 一、支持replit官方平台在线fork（支持在线更新）([vmvltrssso-argo](https://replit.com/@ygkkkk?tab=repls))
 
-### 二、支持本地上传
+### 二、支持本地上传（不支持更新）
 
 点击首页右上角蓝色加号New Repl，搜索模版：Blank Repl，随意输入项目名称Title（不要出现代理协议的任何字眼），点击创建Create Repl，然后下载Github备份地址中的压缩文件（vmvltrssso-argo.zip），并解压。再把解压后的4个文件全部拖到左侧文件栏内进行覆盖，等待几十秒后提示覆盖点确定，最后点击RUN
 
