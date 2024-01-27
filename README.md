@@ -3,7 +3,7 @@
 
 ### [查看相关教程及视频说明](https://ygkkk.blogspot.com/2022/12/replit-xray-vmess-vless-trojan-shadowsocks.html)
 
-### 一、支持replit官方平台在线fork（支持在线更新）([vmvltrssso-argo](https://replit.com/@ygkkkk?tab=repls))
+### 一、支持replit官方平台在线fork（支持在线更新）点击地址([vmvltrssso-argo](https://replit.com/@ygkkkk?tab=repls))
 
 ### 二、支持本地上传（不支持更新）
 
