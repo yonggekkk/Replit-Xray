@@ -1,7 +1,7 @@
 
 ## 2024更新：Replit容器部署xray核心五合一代理
 
-### [查看相关教程及视频说明](https://ygkkk.blogspot.com/2022/12/replit-xray-vmess-vless-trojan-shadowsocks.html)
+## [查看相关教程及视频说明](https://ygkkk.blogspot.com/2022/12/replit-xray-vmess-vless-trojan-shadowsocks.html)
 
 ### 一、支持replit官方平台在线fork（支持在线更新）点击地址([vmvltrssso-argo](https://replit.com/@ygkkkk?tab=repls))
 
@@ -14,7 +14,7 @@
 
 | 变量含义 | 变量名称| 变量值| 不添加该变量说明|
 | :--- | :--- | :--- | :--- |
-| replit默认域名 | ym |replit自动生成的域名|首次运行后必填|
+| replit默认域名 | ym |replit自动生成的域名，注意：变量复制填写时注意检测，ym不要带 https:// 且末尾不要带 / |首次运行后必填|
 | argo固定隧道token | argotoken |CF生成的一串token|可选，但必须与argoym变量同时存在|
 | argo固定隧道域名 | argoym |CF设置的隧道域名|可选，但必须与argotoken变量同时存在|
 | 各协议uuid(密码) | uuid |自定义uuid规定格式|随机生成的uuid|
