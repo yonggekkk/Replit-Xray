@@ -3,9 +3,11 @@
 
 ## [查看相关教程及视频说明](https://ygkkk.blogspot.com/2022/12/replit-xray-vmess-vless-trojan-shadowsocks.html)
 
-### 一、支持replit官方平台在线fork（存在被封风险，建议使用备用replit账号）： replit.com/@yonggekkk
+### 安装方式：
 
-### 二、支持本地上传方案（强烈推荐）
+一、replit平台fork（存在被封风险，建议使用备用replit账号）： replit.com/@yonggekkk
+
+二、本地上传（强烈推荐）：
 
 点击首页右上角蓝色加号New Repl，搜索模版：Blank Repl，随意输入项目名称Title（不要出现代理协议的任何字眼），点击创建Create Repl，然后下载Github备份地址中的压缩文件（vmvltrssso.zip），并解压。再把解压后的4个文件全部拖到左侧文件栏内进行覆盖，等待几十秒后提示覆盖点确定，最后点击RUN
 
