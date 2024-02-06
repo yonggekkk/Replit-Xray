@@ -5,7 +5,7 @@
 
 ### 安装方式：
 
-方式一、replit平台fork（存在被封风险）： replit.com/@yonggekkk
+方式一、replit平台fork： replit.com/@yonggekkk
 
 方式二、本地上传（强烈推荐）：
 
